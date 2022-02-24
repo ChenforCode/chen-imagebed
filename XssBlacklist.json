@@ -1,0 +1,41 @@
+{
+  "ForbiddenTags": [
+    "script",
+    "embed",
+    "object",
+    "layer",
+    "style",
+    "meta",
+    "iframe",
+    "frame",
+    "link",
+    "import",
+    "xml"
+  ],
+  "ScriptedAttributeValue": [
+    "javascript:",
+    "alert",
+    "mocha:",
+    "eval",
+    "vbscript:",
+    "livescript:",
+    "expression(",
+    "url(",
+    "&{",
+    "&#"
+  ],
+  "IllegalSymbolSet": [
+    "'",
+    "\"",
+    "'",
+    "<",
+    ">",
+    "#",
+    "%",
+    ";",
+    "(",
+    ")",
+    "+",
+    "&"
+  ]
+}
